@@ -9,9 +9,6 @@ In this lab activity, the central objective was to employ Linux commands for con
 
 - <b>Bash</b> 
 
-<h2>Environments Used </h2>
-
-- <b>Windows 11</b>
 
 <h2>Program walk-through:</h2>
 
