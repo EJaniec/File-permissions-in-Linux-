@@ -12,4 +12,4 @@ In this lab activity, the central objective was to employ Linux commands for con
 
 <h2>Program walk-through:</h2>
 
-File-permissions-in-Linux(https://github.com/EJaniec/File-permissions-in-Linux-/blob/main/File-permissions-in-Linux.pdf)
+[ File-permissions-in-Linux ](https://github.com/EJaniec/File-permissions-in-Linux-/blob/main/File-permissions-in-Linux.pdf)
